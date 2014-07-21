@@ -10,3 +10,7 @@ HTMLCanvasElement.prototype.getContext = function() {
 HTMLCanvasElement.prototype.toDataURL = function() {
   console.log('toDataURL() has been removed from HTMLCanvasElements to guard against canvas fingerprinting. To restore functionality, disable the \'Canvas Fingerprint Eliminator\' extension.');
 };
+
+HTMLCanvasElement.prototype.toBlob = function() {
+  console.log('toBlob() has been removed from HTMLCanvasElements to guard against canvas fingerprinting. To restore functionality, disable the \'Canvas Fingerprint Eliminator\' extension.');
+};

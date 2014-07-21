@@ -1,7 +1,7 @@
 canvas-do-not-track
 ==================
 
-An unpacked chrome extension (shim) which deletes toDataURL from Canvases, and getImageData from all types of Canvas contexts.
+An unpacked chrome extension (shim) which deletes toDataURL/toBlob from Canvases, and getImageData from all types of Canvas contexts.
 
 To install:
 - Clone this repository, or download it as a zip
