@@ -8,4 +8,4 @@ To install:
 - Navigate to chrome://extensions/ in your chrome browser
 - Enable 'developer mode' in the top right hand corner
 - Click 'Load unpacked extension...', and choose the cloned/unzipped directory
-- Try turning the extension on and off while using http://www.browserleaks.com/canvas#how-does-it-work as a test
+- Try turning the extension on and off while using http://www.browserleaks.com/canvas as a test
