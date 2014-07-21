@@ -1,4 +1,10 @@
-chrome-canvas-do-not-track
-==========================
+canvas-do-not-track
+==================
 
-A chrome extension which simply deletes toDataURL from Canvases, and getImageData from all types of Canvas contexts.
+An unpacked chrome extension which simply deletes toDataURL from Canvases, and getImageData from all types of Canvas contexts.
+
+To install:
+- Clone this repository, or download it as a zip
+- Navigate to chrome://extensions/ in your chrome browser
+- Enable 'developer mode' in the top right hand corner
+- Click 'Load unpacked extension...', and choose the cloned/unzipped directory
