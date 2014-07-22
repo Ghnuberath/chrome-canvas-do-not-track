@@ -2,7 +2,7 @@
 var _canvasDisableFingerprintAlertDisplayed = false;
 var alertUser = function() {
   if (!_canvasDisableFingerprintAlertDisplayed) {
-    alert('I am trying to read image data from a canvas, a method which can be used to track your browser.\n\nIf you want to allow this, disable the \'Canvas Fingerprint Eliminator\' extension and reload the page.');
+    //alert('I am trying to read image data from a canvas, a method which can be used to track your browser.\n\nIf you want to allow this, disable the \'Canvas Fingerprint Eliminator\' extension and reload the page.');
   }
   _canvasDisableFingerprintAlertDisplayed = true;
 };
